@@ -8,12 +8,9 @@ This project is aimed at building a sarcasm classification model using natural l
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data](#data)
 - [Preprocessing](#preprocessing)
 - [Model Architecture](#model-architecture)
-- [Training](#training)
 - [Evaluation](#evaluation)
-- [Prediction](#prediction)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,3 +34,15 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/sarcasm-classification.git
+
+## Usage
+
+-Open the Jupyter Notebook (sarcasm_classification.ipynb) in your local environment.
+-Execute the cells to preprocess data, train the model, and evaluate its performance.
+-Use the trained model for sarcasm prediction.
+
+## Preprocessing
+Text data is preprocessed by cleaning, tokenizing, and removing stop words. The cleaned data is then used for training.
+
+## Model Architecture
+The model consists of an embedding layer, LSTM layer, and a dense layer with a sigmoid activation function for binary classification.
