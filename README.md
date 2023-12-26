@@ -11,9 +11,6 @@ This project is aimed at building a sarcasm classification model using natural l
 - [Preprocessing](#preprocessing)
 - [Model Architecture](#model-architecture)
 - [Evaluation](#evaluation)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Requirements
@@ -29,12 +26,12 @@ This project is aimed at building a sarcasm classification model using natural l
 - NumPy
 
 
-
-
 ## Installation
 
 Clone the repository to your local machine:
-
+```
+git clone https://github.com/your-username/sarcasm-classification.git
+```
 
 
 ## Usage
@@ -49,3 +46,12 @@ Text data is preprocessed by cleaning, tokenizing, and removing stop words. The 
 
 ## Model Architecture
 The model consists of an embedding layer, LSTM layer, and a dense layer with a sigmoid activation function for binary classification.
+
+## Evaluation
+The model's performance is evaluated on a validation set, and accuracy and loss curves are plotted.
+
+## Contact
+
+- Mail: aisha.dh43@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aisha-bastawesy-bb02a2204/
+
