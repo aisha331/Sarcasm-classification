@@ -37,7 +37,9 @@ git clone https://github.com/your-username/sarcasm-classification.git
 ## Usage
 
 1-Open the Jupyter Notebook (sarcasm_classification.ipynb) in your local environment.
+
 2-Execute the cells to preprocess data, train the model, and evaluate its performance.
+
 3-Use the trained model for sarcasm prediction.
 
 ## Preprocessing
