@@ -36,10 +36,9 @@ git clone https://github.com/your-username/sarcasm-classification.git
 
 ## Usage
 
-1. Open the notebook, you can find two separate code. One's for the customized training and the other to train using ready corpus data.
--Open the Jupyter Notebook (sarcasm_classification.ipynb) in your local environment.
--Execute the cells to preprocess data, train the model, and evaluate its performance.
--Use the trained model for sarcasm prediction.
+1-Open the Jupyter Notebook (sarcasm_classification.ipynb) in your local environment.
+2-Execute the cells to preprocess data, train the model, and evaluate its performance.
+3-Use the trained model for sarcasm prediction.
 
 ## Preprocessing
 Text data is preprocessed by cleaning, tokenizing, and removing stop words. The cleaned data is then used for training.
