@@ -28,18 +28,18 @@ This project is aimed at building a sarcasm classification model using natural l
 - Pandas
 - NumPy
 
+
+
+
 ## Installation
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/sarcasm-classification.git
 
-
-## Installation
 
 ## Usage
 
+1. Open the notebook, you can find two separate code. One's for the customized training and the other to train using ready corpus data.
 -Open the Jupyter Notebook (sarcasm_classification.ipynb) in your local environment.
 -Execute the cells to preprocess data, train the model, and evaluate its performance.
 -Use the trained model for sarcasm prediction.
